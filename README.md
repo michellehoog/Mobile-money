@@ -15,11 +15,14 @@ Financial Access Map
 This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. Cash outlets in this case included commercial banks, community banks, ATMs, microfinance institutions, mobile money agents, bus stations and post offices. This data was collected by FSDT. 
 
 
-Instructions:
-Examine the dataset. Are there any missing observations or columns where the data do not seem valid?  
+## Instructions:
 
-Create appropriate graphs to visually represent the relationship between financial services accessed (non, momible, both) and age, gender, marital status, land ownership and type of income.  
+1. Examine the dataset. Are there any missing observations or columns where the data do not seem valid?  
 
-Create appropriate graphs to visually represent the relationship between how often mobile services are used and age, gender, marital status, land ownership and type of income.
+2. Get basic descriptive statistics for the dataset.
 
-What can you conclude about use of financial services in Tanzania? Which demographic factors are associated with mobile money use?
+3. Create appropriate graphs to visually represent the relationship between financial services accessed (non, momible, both) and age, gender, marital status, land ownership and type of income.  
+
+4. Create appropriate graphs to visually represent the relationship between how often mobile services are used and age, gender, marital status, land ownership and type of income.
+
+5. What can you conclude about use of financial services in Tanzania? Which demographic factors are associated with mobile money use?
